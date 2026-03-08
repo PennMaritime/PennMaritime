@@ -112,7 +112,7 @@ const PresidentSection: React.FC = () => {
 								<div className="relative w-full max-w-md mx-auto lg:max-w-none">
 									<div className="relative rounded-2xl overflow-hidden">
 										<Image
-											src="/Luka.jpeg"
+											src="/public/Luka.jpeg"
 											alt="Luka Adzic, Founder & President of Maritime@Penn"
 											className="object-cover aspect-[3/4] bg-muted"
 											priority
